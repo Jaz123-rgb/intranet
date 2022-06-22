@@ -1,0 +1,14 @@
+{
+  "name": "intranet",
+  "version": "1.0.0",
+  "description": "Intranet ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaziel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
